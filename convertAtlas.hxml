@@ -1,0 +1,11 @@
+-cp src.aseprite
+-main Aseprite
+-lib castle
+-lib heaps
+-lib deepnightLibs
+-lib ldtk-haxe-api
+-D potools
+-hl bin/convertAtlas.hl
+
+--next
+-cmd hl bin/convertAtlas.hl
